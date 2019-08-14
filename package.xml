@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+    <name>Netgo_MulistoreNewsletter</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license>Open Software License (OSL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Allows customer to subscribe newsletter more than one store</summary>
+    <description>This extension is developed with the purpose to sign up newsletter in any website having multi store with &#xD;
+&#xD;
+similar e-mail id.  Any user can sign up newsletter with their same e-mail id in all the stores.</description>
+    <notes>First Preview Release</notes>
+    <authors><author><name>NetGo</name><user>NetGo</user><email>netattingomails@gmail.com</email></author></authors>
+    <date>2015-07-29</date>
+    <time>00:02:20</time>
+    <contents><target name="magecommunity"><dir name="Netgo"><dir name="MulistoreNewsletter"><dir name="Helper"><file name="Data.php" hash="b3ef37ebbe79d7c2ca720d91b3d9ddcb"/></dir><dir name="Model"><dir name="Newsletter"><dir name="Mysql4"><file name="Subscriber.php" hash="4b1f6a77fe60de5cac7fd77d119da748"/></dir></dir></dir><dir name="etc"><file name="adminhtml.xml" hash="1a98db1f6c675edc01146ae1366e425d"/><file name="config.xml" hash="789efaeaed4275444fcef3b89a800364"/><file name="system.xml" hash="8b9061e920b03509a78741705ba215e9"/></dir></dir></dir></target><target name="mage"><dir name="."><file name="User_manual.pdf" hash="5c326e3afdf077740ab28728b488ecba"/></dir></target><target name="mageetc"><dir name="modules"><file name="Netgo_MulistoreNewsletter.xml" hash="5308875609666058d1b2b672b3abb7f5"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
