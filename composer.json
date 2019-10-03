@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/Netgo_MulistoreNewsletter",
+    "name": "openmage-module-fostering\/netgo_mulistorenewsletter",
     "type": "magento-module",
-    "license": "Open-Software-License-(OSL)",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Allows customer to subscribe newsletter more than one store",
     "authors": [

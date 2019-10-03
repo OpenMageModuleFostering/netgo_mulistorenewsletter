@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Allows customer to subscribe newsletter more than one store
