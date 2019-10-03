@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Netgo_MulistoreNewsletter",
+    "name": "OpenMageModuleFostering\/Netgo_MulistoreNewsletter",
     "type": "magento-module",
     "license": "Open-Software-License-(OSL)",
     "homepage": "",
     "description": "Allows customer to subscribe newsletter more than one store",
     "authors": [
-    {
-        "name": "NetGo",
-        "email": "netattingomails@gmail.com"
-    }
-],
+        {
+            "name": "NetGo",
+            "email": "netattingomails@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
